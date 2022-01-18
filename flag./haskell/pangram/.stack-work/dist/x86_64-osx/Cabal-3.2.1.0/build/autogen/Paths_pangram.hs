@@ -30,7 +30,7 @@ version = Version [2,0,0,12] []
 bindir, libdir, dynlibdir, datadir, libexecdir, sysconfdir :: FilePath
 
 bindir     = "/Users/takashiba/Exercism/flag./haskell/pangram/.stack-work/install/x86_64-osx/d71365b97478a0b343f2137470974c551e26ef1aa81bd12e8dfd2885d7664a1e/8.10.7/bin"
-libdir     = "/Users/takashiba/Exercism/flag./haskell/pangram/.stack-work/install/x86_64-osx/d71365b97478a0b343f2137470974c551e26ef1aa81bd12e8dfd2885d7664a1e/8.10.7/lib/x86_64-osx-ghc-8.10.7/pangram-2.0.0.12-AdovufVMvUzjPkMnysKDr"
+libdir     = "/Users/takashiba/Exercism/flag./haskell/pangram/.stack-work/install/x86_64-osx/d71365b97478a0b343f2137470974c551e26ef1aa81bd12e8dfd2885d7664a1e/8.10.7/lib/x86_64-osx-ghc-8.10.7/pangram-2.0.0.12-4R3brU2Te5e2XAOzNDuctL"
 dynlibdir  = "/Users/takashiba/Exercism/flag./haskell/pangram/.stack-work/install/x86_64-osx/d71365b97478a0b343f2137470974c551e26ef1aa81bd12e8dfd2885d7664a1e/8.10.7/lib/x86_64-osx-ghc-8.10.7"
 datadir    = "/Users/takashiba/Exercism/flag./haskell/pangram/.stack-work/install/x86_64-osx/d71365b97478a0b343f2137470974c551e26ef1aa81bd12e8dfd2885d7664a1e/8.10.7/share/x86_64-osx-ghc-8.10.7/pangram-2.0.0.12"
 libexecdir = "/Users/takashiba/Exercism/flag./haskell/pangram/.stack-work/install/x86_64-osx/d71365b97478a0b343f2137470974c551e26ef1aa81bd12e8dfd2885d7664a1e/8.10.7/libexec/x86_64-osx-ghc-8.10.7/pangram-2.0.0.12"
