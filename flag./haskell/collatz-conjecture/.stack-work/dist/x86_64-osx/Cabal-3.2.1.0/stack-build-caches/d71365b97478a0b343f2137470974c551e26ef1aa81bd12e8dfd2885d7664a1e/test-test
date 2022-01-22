@@ -1,0 +1,12 @@
+/Users/takashiba/Exercism/flag./haskell/collatz-conjecture/test/Tests.hs:
+  hash: 9cb2883b543df4fd593fa0cea764a0a66fe44e922793706335a54995db1da875
+? /Users/takashiba/Exercism/flag./haskell/collatz-conjecture/.stack-work/dist/x86_64-osx/Cabal-3.2.1.0/build/test/autogen/Paths_collatz_conjecture.hs
+: hash: a75ed510d8fa2f19720fe2fa579b358b9c1123af2be3102e16256fb3efd9c81e
+/Users/takashiba/.stack/programs/x86_64-osx/ghc-8.10.7/lib/ghc-8.10.7/include/ghcversion.h:
+  hash: c013160c9aa8a98f4638616496dce720c23ceca8ef9d6b3212b654642fbda5e4
+? /Users/takashiba/Exercism/flag./haskell/collatz-conjecture/.stack-work/dist/x86_64-osx/Cabal-3.2.1.0/build/test/autogen/cabal_macros.h
+: hash: 206c909897ff3715b16e4cc760c79f1c9c2d1a62bea8349b393fc227ffab8a87
+/Users/takashiba/Exercism/flag./haskell/collatz-conjecture/package.yaml:
+  hash: e04e546810251e29e1b3a5bae523e047724b2e3b36899b4d241b93721a71f1a4
+/Users/takashiba/Exercism/flag./haskell/collatz-conjecture/collatz-conjecture.cabal:
+  hash: 7836d99b21f662f24dd3a8165fad6099b67c5756a496287a53c46528e4001b40
