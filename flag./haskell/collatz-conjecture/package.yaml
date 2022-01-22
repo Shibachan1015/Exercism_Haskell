@@ -1,12 +1,11 @@
-name: bob
-version: 1.4.0.10
+name: collatz-conjecture
+version: 1.2.1.4
 
 dependencies:
   - base
-  - text
 
 library:
-  exposed-modules: Bob
+  exposed-modules: CollatzConjecture
   source-dirs: src
   ghc-options: -Wall
   # dependencies:
@@ -18,5 +17,5 @@ tests:
     main: Tests.hs
     source-dirs: test
     dependencies:
-      - bob
+      - collatz-conjecture
       - hspec

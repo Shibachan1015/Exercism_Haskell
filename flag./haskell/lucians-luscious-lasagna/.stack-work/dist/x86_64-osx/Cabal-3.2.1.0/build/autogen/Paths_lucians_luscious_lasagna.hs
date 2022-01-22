@@ -30,7 +30,7 @@ version = Version [1,0,0,0] []
 bindir, libdir, dynlibdir, datadir, libexecdir, sysconfdir :: FilePath
 
 bindir     = "/Users/takashiba/Exercism/.stack-work/install/x86_64-osx/07990cd4c4e2a88030690dde1659c6b570a3676ee6997c4bd8bfecdc93076b71/8.10.7/bin"
-libdir     = "/Users/takashiba/Exercism/.stack-work/install/x86_64-osx/07990cd4c4e2a88030690dde1659c6b570a3676ee6997c4bd8bfecdc93076b71/8.10.7/lib/x86_64-osx-ghc-8.10.7/lucians-luscious-lasagna-1.0.0.0-2sI5Gh7OOgYHEAXBAMIXsY"
+libdir     = "/Users/takashiba/Exercism/.stack-work/install/x86_64-osx/07990cd4c4e2a88030690dde1659c6b570a3676ee6997c4bd8bfecdc93076b71/8.10.7/lib/x86_64-osx-ghc-8.10.7/lucians-luscious-lasagna-1.0.0.0-5tnqSSqq2Sh5XmsYzZEVR1"
 dynlibdir  = "/Users/takashiba/Exercism/.stack-work/install/x86_64-osx/07990cd4c4e2a88030690dde1659c6b570a3676ee6997c4bd8bfecdc93076b71/8.10.7/lib/x86_64-osx-ghc-8.10.7"
 datadir    = "/Users/takashiba/Exercism/.stack-work/install/x86_64-osx/07990cd4c4e2a88030690dde1659c6b570a3676ee6997c4bd8bfecdc93076b71/8.10.7/share/x86_64-osx-ghc-8.10.7/lucians-luscious-lasagna-1.0.0.0"
 libexecdir = "/Users/takashiba/Exercism/.stack-work/install/x86_64-osx/07990cd4c4e2a88030690dde1659c6b570a3676ee6997c4bd8bfecdc93076b71/8.10.7/libexec/x86_64-osx-ghc-8.10.7/lucians-luscious-lasagna-1.0.0.0"
